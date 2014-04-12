@@ -14,12 +14,12 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?12323565#fontello') format('svg');
+    src: url('../font/fontello.svg?99047343#fontello') format('svg');
   }
 }
 */
  
- [class^="fontello-"]:before, [class*=" fontello-"]:before {
+ [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -50,7 +50,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.fontello-star-half-alt:before { content: '\e803'; } /* '' */
-.fontello-flag:before { content: '\e801'; } /* '' */
-.fontello-down-open:before { content: '\e802'; } /* '' */
-.fontello-globe:before { content: '\e800'; } /* '' */
+.icon-star-half-alt:before { content: '\e803'; } /* '' */
+.icon-flag:before { content: '\e801'; } /* '' */
+.icon-down-open:before { content: '\e802'; } /* '' */
+.icon-globe:before { content: '\e800'; } /* '' */
